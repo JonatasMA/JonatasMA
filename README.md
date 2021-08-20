@@ -52,7 +52,7 @@
 
 ## You can find me in:
 
-[![Instagram](https://img.shields.io/badge/AraujoJonatas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/reisdev)
+[![Instagram](https://img.shields.io/badge/AraujoJonatas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/AraujoJonatas)
 [![Twitter](https://img.shields.io/badge/MaizCedoo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MaizCedoo)
 [![Telegram](https://img.shields.io/badge/JonMaisCedo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JonMaisCedo)
 [![LinkedIn](https://img.shields.io/badge/jonatasmacedo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasmacedo/)

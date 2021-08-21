@@ -10,7 +10,7 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=JonatasMA&show_icons=true">
 </a>
 <a href="https://github.com/JonatasMA">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasMA&layout=compact">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasMA&layout=compact&langs_count=6">
 </a>
 
 ---

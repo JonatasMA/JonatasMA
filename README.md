@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on [Rubeus](https://github.com/rubeus-tecnologia-e-inovacao)
-- 🌱 I’m currently learning Python and anothers things
+- 🌱 I’m currently learning Dart/Flutter and anothers things
 - 💬 Ask me about PHP and JavaScript
 
 

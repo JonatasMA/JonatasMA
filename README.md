@@ -25,9 +25,10 @@
 ### Frameworks
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -45,16 +46,15 @@
 ### OS
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-blueviolet?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
 ## You can find me in:
-
 [![Instagram](https://img.shields.io/badge/AraujoJonatas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/AraujoJonatas)
-[![Twitter](https://img.shields.io/badge/MaizCedoo-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MaizCedoo)
+[![X](https://img.shields.io/badge/MaizCedoo-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MaizCedoo)
 [![Telegram](https://img.shields.io/badge/JonMaisCedo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JonMaisCedo)
-[![LinkedIn](https://img.shields.io/badge/jonatasmacedo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasmacedo/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/jonatasmacedo-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jonatasmacedo/)
 [![Twitch](https://img.shields.io/badge/jhouwzzz-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/jhouwzzz)
